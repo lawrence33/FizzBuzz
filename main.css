@@ -1,0 +1,19 @@
+.li {
+	padding: 20px;
+	display: block;
+	list-style-type: circle;
+}
+
+p {
+	width: 75%;
+	margin: 0 auto;
+}
+
+.title {
+	background-color: grey;
+	margin-top: 20px;
+	padding: 20px;
+	margin: 0 auto;
+	text-align: center;
+
+}
